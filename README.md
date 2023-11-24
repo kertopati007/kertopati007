@@ -11,3 +11,9 @@ Untuk Lebih lanjutnya dapat menghubungi saya pada laman dibawah ini..
  <a href="https://www.linkedin.com/in/muhammad-muchlasin-3a297621a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+
+<H2> My Skill</H2>
+<p> Saya lebih familiar dengan bahasa-bahasa pemrograman yang saya kuasai,</p>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,flutter,mysql,dart)](https://skillicons.dev)
